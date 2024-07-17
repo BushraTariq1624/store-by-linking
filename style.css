@@ -30,15 +30,6 @@ body{
     text-transform: capitalize;
     padding: 500px;
 }
-.contact{
-    font-size: x-large;
-    font-weight: bold;
-    font-style: italic;
-    font-family: riot;
-    color: darkmagenta;
-    text-transform: capitalize;
-    padding: 80px;
-}
 .index{
     font-size: x-large;
     font-weight: bold;
